@@ -75,7 +75,7 @@ A premium native Android calorie tracking app built with Jetpack Compose and Goo
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/CalTracker.git
+git clone https://github.com/SyntaxSunset/CalTracker.git
 cd CalTracker
 ```
 
