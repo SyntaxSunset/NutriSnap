@@ -79,14 +79,7 @@ git clone https://github.com/yourusername/CalTracker.git
 cd CalTracker
 ```
 
-2. **Add your Gemini API key**
-
-Open `local.properties` and add:
-```
-GEMINI_API_KEY=your_api_key_here
-```
-
-3. **Build and run**
+2. **Build and run**
 ```bash
 ./gradlew assembleDebug
 ```
